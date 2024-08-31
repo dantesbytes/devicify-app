@@ -5,8 +5,7 @@
 Welcome to Devicify, the next-generation solution for seamless device management across multiple platforms.
 
 ## 🌟 About Devicify
-
-Devicify is a cutting-edge, private project aimed at revolutionizing how businesses handle their device ecosystems. From mobile phones to IoT devices, Devicify provides a unified, secure, and efficient management system that scales with your organization.
+ private project aimed at revolutionizing how businesses handle their device ecosystems. From mobile phones to IoT devices, Devicify provides a unified, secure, and efficient management system that scales with your organization.
 
 ## 🚀 Key Features
 
@@ -28,7 +27,7 @@ Devicify is perfect for:
 
 ## 🔒 Private Project
 
-Devicify is currently a private project under active development. Access is limited to authorized personnel and partners. If you're interested in learning more or potentially partnering with us, please reach out to our team.
+private project under active development.If you're interested in learning more or potentially partnering with us, please reach out to our team.
 
 ## 📞 Contact
 
@@ -37,9 +36,7 @@ For inquiries about Devicify, please contact:
 Email: info@devicify.xyz
 Phone: +1 (555) 123-4567
 
-## 🔐 Security
 
-Found a security issue? Please report it confidentially to security@devicify.xyz.
 
 ---
 
